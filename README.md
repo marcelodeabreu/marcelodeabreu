@@ -1,19 +1,21 @@
-My is Marcelo and I am a Software Engineering student and iOS Developer.
+### Hi there 👋, my name is Marcelo de Abreu
+#### I am a Software Engineering student and iOS Developer.
+I've been into tech and apple devices my whole life and studying development is beyond pleasurable.
+I love learning new things :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodeabreu)](https://github.com/anuraghazra/github-readme-stats)
+![SwiftUI](https://github.com/marcelodeabreu/marcelodeabreu/assets/109244891/b480dc92-53c1-41d1-9821-15386478e02b)
+
+Skills: [Swift, UIKit, SwiftUI, view code, Firebase, Snapkit, Cocoapods]
+
+- 🔭 I’m currently working on a marketplace app. 
+- 🌱 I’m currently learning view code and APIs. 
 
 
-<!--
-**marcelodeabreu/marcelodeabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcelodeabreu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcelo-de-abreu-9b1b5623b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22290966)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeabreu)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodeabreu&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=marcelodeabreu)  
+

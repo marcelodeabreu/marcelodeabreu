@@ -1,5 +1,5 @@
-Hey there, my name is Marcelo de Abreu.
-I am a Software Engineering student and iOS Developer.
+### Hey there, my name is Marcelo de Abreu.
+#### I’m a Software Engineering student and iOS Developer.
 I've been into tech and apple devices my whole life and studying development is beyond pleasurable.
 I love learning new things :)
 

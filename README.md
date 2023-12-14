@@ -1,7 +1,7 @@
 ### Hey there, my name is Marcelo de Abreu.
 #### I’m a Software Engineering student and iOS Developer.
-I've been into tech and apple devices my whole life and studying development is beyond pleasurable.
-I love learning new things :)
+I've been into tech and apple devices my whole life and studying development is beyond pleasurable. /n
+I truly love learning new things! :)
 
 ![SwiftUI](https://github.com/marcelodeabreu/marcelodeabreu/assets/109244891/b480dc92-53c1-41d1-9821-15386478e02b)
 

@@ -1,4 +1,7 @@
-### Hi there 👋
+My is Marcelo and I am a Software Engineering student and iOS Developer.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodeabreu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **marcelodeabreu/marcelodeabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

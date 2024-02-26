@@ -1,5 +1,5 @@
-### Hey there, my name is Marcelo de Abreu.
-#### I’m a Software Engineering student and iOS Developer.
+
+Software Engineering student & iOS Developer.
 
 ![SwiftUI](https://github.com/marcelodeabreu/marcelodeabreu/assets/109244891/b480dc92-53c1-41d1-9821-15386478e02b)
 

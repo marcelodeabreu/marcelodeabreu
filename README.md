@@ -5,8 +5,7 @@ Software Engineering student & iOS Developer.
 
 Skills: [Swift, UIKit, SwiftUI, view code, Firebase, Snapkit, Cocoapods]
 
-- 🔭 I’m currently working on Fluenty App & a CS2 skins marketplace. 
-- 🌱 I’m currently learning APIs, MVVM-C and Unit Testing. 
+- 🔭 I’m currently working on InvenotryManager App & Fluenty App. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcelodeabreu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcelo-de-abreu-9b1b5623b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22290966)  

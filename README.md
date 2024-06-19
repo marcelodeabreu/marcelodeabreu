@@ -12,7 +12,3 @@ Skills: [Swift, UIKit, SwiftUI, view code, Firebase, Snapkit, Cocoapods]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeabreu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodeabreu&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marcelodeabreu)  
-

@@ -1,4 +1,9 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/mdeabreu.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/3469740"></script>
+
+
+
+ 
+
 
 
 

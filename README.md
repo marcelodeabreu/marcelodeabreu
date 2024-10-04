@@ -1,10 +1,4 @@
-<script src="https://tryhackme.com/badge/3469740"></script>
-
-
-
- 
-
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/mdeabreu.png" alt="TryHackMe">
 
 
 Software Engineering student & iOS Developer.
